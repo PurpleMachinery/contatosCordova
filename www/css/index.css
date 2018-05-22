@@ -23,3 +23,7 @@ button{
 	background-color: green;
 	border: none;
 }
+
+label, input[type="text"]{
+	color: black;
+}
